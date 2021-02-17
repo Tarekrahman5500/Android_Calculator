@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button"/>
+    <string name="textview"/>
+    <string name="name"/>
+
+</resources>
